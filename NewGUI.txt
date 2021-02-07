@@ -1,1 +1,2 @@
 This is first GUI version
+Changes from eclipse or Egit
