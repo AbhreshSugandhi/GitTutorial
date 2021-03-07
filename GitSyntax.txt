@@ -6,7 +6,7 @@ Dir
 mkdir project.git
 File
 touch newFile.txt
-echo “This text is added to the end of the file” >> newFile.txt
+echo “This text is added to the end of the file >> newFile.txt
 
 Clone
 git clone gituser@git.server.com:project.git
